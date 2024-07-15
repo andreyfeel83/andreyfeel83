@@ -4,8 +4,6 @@ Hi everyone. My name is Andrey
 I am a Front-End Developer
 --------------------------
 
-I am studying using materials available on the Internet. I plan to become a full stack developer, with a focus on frontend. Looking for a remote job.
-
 * 🌍  I'm based in Ukrain, Kharkiv
 * ✉️  [andreyfeel83@gmail.com](mailto:andreyfeel83@gmail.com)
 
